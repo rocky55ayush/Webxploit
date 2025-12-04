@@ -33,7 +33,9 @@ The scanner performs deep crawling, analyzes parameters & forms, and saves all f
 
 ## 📥 Installation
 git clone https://github.com/rocky55ayush/Webxploit.git
+
 cd Webxploit
+
 pip install -r requirements.txt
 
 🚀 Usage
