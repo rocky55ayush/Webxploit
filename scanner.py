@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-scanner_with_cors_full.py
+scanner.py
 
 - Crawl (depth)
 - Optional Wayback fetch
