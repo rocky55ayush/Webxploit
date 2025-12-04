@@ -77,6 +77,8 @@ This tool is for educational and authorized security testing only.
 Do NOT scan targets without permission.
 
 Author
+
 Ayush Yadav
+
 Penetration Tester • Web Security Researcher
 
