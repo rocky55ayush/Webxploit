@@ -40,9 +40,11 @@ pip install -r requirements.txt
 
 🚀 Usage
 Basic Scan
+
 python3 scanner.py -u https://target.com
 
 Full Scan
+
 python3 scanner.py -u https://target.com --depth 2 --threads 8 --verify-xss
 
 ⚙️ Main Arguments
